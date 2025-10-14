@@ -1,4 +1,4 @@
-base_url = "https://van-sprundel.org"
+base_url = "https://ramones.dev"
 title = "Ramon van Sprundel"
 description = "Rust enthusiast"
 compile_sass = true
