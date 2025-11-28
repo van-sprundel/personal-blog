@@ -128,34 +128,34 @@ I would still be curious if there are any small companies (<50 people) that have
 
 ## Sidenote
 
-I really like reading Sean Goedecke's posts about his experience as a staff engineer. It's pretty insightful to see his experience, especially since he climbed the ladder. If you need a suggestion: https://www.seangoedecke.com/dangerous-advice/
+I really like reading Sean Goedecke's posts about his experience as a staff engineer. It's pretty insightful to see his experience, especially since he climbed the ladder. If you need a suggestion: [https://www.seangoedecke.com/dangerous-advice/](https://www.seangoedecke.com/dangerous-advice/)
 
 ## Footnotes
 
-[^1]: https://www.pandcglobal.com/research-insights/holacracy-and-self-management-enhancing-agility-in-organizations/
+[^1]: [https://www.pandcglobal.com/research-insights/holacracy-and-self-management-enhancing-agility-in-organizations/](https://www.pandcglobal.com/research-insights/holacracy-and-self-management-enhancing-agility-in-organizations/)
 
-[^2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9893924/
+[^2]: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9893924/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9893924/)
 
-[^3]: https://www.researchgate.net/publication/387082162_Holacracy_and_Organizational_Performance_A_Meta-Analysis_of_Case_Studies_Across_Different_Business_Models
+[^3]: [https://www.researchgate.net/publication/387082162_Holacracy_and_Organizational_Performance_A_Meta-Analysis_of_Case_Studies_Across_Different_Business_Models](https://www.researchgate.net/publication/387082162_Holacracy_and_Organizational_Performance_A_Meta-Analysis_of_Case_Studies_Across_Different_Business_Models)
 
-[^4]: https://signalvnoise.com/svn3/how-we-pay-people-at-basecamp/
+[^4]: [https://signalvnoise.com/svn3/how-we-pay-people-at-basecamp/](https://signalvnoise.com/svn3/how-we-pay-people-at-basecamp/)
 
-[^5]: https://ideas.repec.org/p/iza/izadps/dp5711.html
+[^5]: [https://ideas.repec.org/p/iza/izadps/dp5711.html](https://ideas.repec.org/p/iza/izadps/dp5711.html)
 
-[^6]: https://journals.sagepub.com/doi/10.1177/1350508414537625
+[^6]: [https://journals.sagepub.com/doi/10.1177/1350508414537625](https://journals.sagepub.com/doi/10.1177/1350508414537625)
 
-[^7]: https://www.researchgate.net/publication/313292439_The_Viability_of_Cooperatives_The_Fall_of_the_Mondragon_Cooperative_Fagor
+[^7]: [https://www.researchgate.net/publication/313292439_The_Viability_of_Cooperatives_The_Fall_of_the_Mondragon_Cooperative_Fagor](https://www.researchgate.net/publication/313292439_The_Viability_of_Cooperatives_The_Fall_of_the_Mondragon_Cooperative_Fagor)
 
-[^8]: https://web.archive.org/web/20190324133649/https://www.mcvuk.com/development/valves-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school
+[^8]: [https://web.archive.org/web/20190324133649/https://www.mcvuk.com/development/valves-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school](https://web.archive.org/web/20190324133649/https://www.mcvuk.com/development/valves-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school)
 
-[^9]: https://www.pcgamer.com/valves-unusual-corporate-structure-causes-its-problems-report-suggests/
+[^9]: [https://www.pcgamer.com/valves-unusual-corporate-structure-causes-its-problems-report-suggests/](https://www.pcgamer.com/valves-unusual-corporate-structure-causes-its-problems-report-suggests/)
 
-[^10]: http://podaracademics.blogspot.com/2015/08/the-flat-organisational-structure-at.html
+[^10]: [http://podaracademics.blogspot.com/2015/08/the-flat-organisational-structure-at.html](http://podaracademics.blogspot.com/2015/08/the-flat-organisational-structure-at.html)
 
-[^11]: https://ebsedu.org/blog/boss-less-management-a-peek-into-the-flat-hierarchy-of-valve
+[^11]: [https://ebsedu.org/blog/boss-less-management-a-peek-into-the-flat-hierarchy-of-valve](https://ebsedu.org/blog/boss-less-management-a-peek-into-the-flat-hierarchy-of-valve)
 
-[^12]: https://link.springer.com/article/10.1007/s41469-022-00132-8
+[^12]: [https://link.springer.com/article/10.1007/s41469-022-00132-8](https://link.springer.com/article/10.1007/s41469-022-00132-8)
 
-[^13]: https://en.wikipedia.org/wiki/Valve_Corporation
+[^13]: [https://en.wikipedia.org/wiki/Valve_Corporation](https://en.wikipedia.org/wiki/Valve_Corporation)
 
-[^14]: https://ivypanda.com/essays/the-valve-corporation-challenges/
+[^14]: [https://ivypanda.com/essays/the-valve-corporation-challenges](https://ivypanda.com/essays/the-valve-corporation-challenges)
