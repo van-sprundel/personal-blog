@@ -26,6 +26,7 @@ Again, i've been using this since 2019, and have done some professional work wit
 ### I have never worked with graphql
 
 Alright let's grab my [resume](/hire-me). If you don't want to, I'll help you out:
+
 ![Graphql](/imgs/graphql.png)
 
 ### I have never worked with AWS Lambda
