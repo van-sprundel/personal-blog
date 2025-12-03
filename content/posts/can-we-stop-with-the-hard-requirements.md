@@ -7,7 +7,7 @@ date = "2025-12-03"
 tags = ["hiring", "product managers", "hell"]
 +++
 
-We shouldn't be putting hard requirements on job posts to wipe out job application. Just like we need a judge to check each court case. We're humans, and every case is different.
+We shouldn't be putting hard requirements on job posts to wipe out job applications. Just like we need a judge to check each court case. We're humans, and every case is different.
 
 I totally get having requirements, but you cannot infer from a resume whether you would fit these requirements. 3+ YOE don't mean shit when your experience was working _alongside_ a technology.
 
