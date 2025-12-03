@@ -21,7 +21,7 @@ How do you know I'm good/bad at Node? You figure it out! I have more than enough
 
 ### I have never worked with postgres
 
-Again, i've been using this since 2019, and have done some professional work within $COMPANY that I would consider worth explaining in a meeting. This one doesn't even have a 3+ years requirement, the requiter just straight up missed this in my resume.
+Again, i've been using this since 2019, and have done some professional work within $COMPANY that I would consider worth explaining in a meeting. This one doesn't even have a 3+ years requirement, the recruiter just straight up missed this in my resume.
 
 ### I have never worked with graphql
 
