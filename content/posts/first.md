@@ -13,4 +13,3 @@ Nothing much to see here. You should check out my [projects](/projects)!
 {{ note(header="Thanks for reading!", body="Have a cat as a gift.") }}
 
 ![Cat](/imgs/cat.png)
-

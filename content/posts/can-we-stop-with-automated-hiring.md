@@ -7,26 +7,24 @@ date = "2025-12-03"
 tags = ["hiring", "product managers", "hell"]
 +++
 
-We shouldn't be automating hiring people, just like we shouldn't automate court cases; just like we shouldn't automate dating. We're humans, and every case is different. 
+We shouldn't be automating hiring people, just like we shouldn't automate court cases; just like we shouldn't automate dating. We're humans, and every case is different.
 
-I totally get having requirements, but you cannot infer from a resume whether you would fit these requirements. 3+ YOE don't mean shit when your experience was working *alongside* a technology.
+I totally get having requirements, but you cannot infer from a resume whether you would fit these requirements. 3+ YOE don't mean shit when your experience was working _alongside_ a technology.
 
 I got rejected because I did not follow the following requirements:
 
 ### I do not have 3+ years of Node.js experience
 
-I've been using Node.JS professionally for 2 years, but I've been using it for uni and hobby projects since 2019. 
+I've been using Node.JS professionally for 2 years, but I've been using it for uni and hobby projects since 2019.
 
 How do you know I'm good/bad at Node? You figure it out! In I have more than enough projects on my page that shows my usage of Node which goes further than just spinning up a basic server. I know my way around, and if my GitHub doesn't convince you I'm more than happy to show this during a 30 min call (but that's been cancelled, so we'll never know!).
 
 ### I have never worked with graphql
 
 If you want, you can check my [resume](/hire-me). If you don't, I'll help you out:
-
-
 ![Graphql](/imgs/graphql.png)
 
-###  I have never worked with AWS Lambda
+### I have never worked with AWS Lambda
 
 I'll admit that this one isn't in there, so an AI might mark this as not done; But that's why I'm precisely advocating to not automate this.
 
