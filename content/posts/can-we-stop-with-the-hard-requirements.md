@@ -28,10 +28,6 @@ Again, i've been using this since 2019, and have done some professional work wit
 Alright let's grab my [resume](/hire-me). If you don't want to, I'll help you out:
 ![Graphql](/imgs/graphql.png)
 
-### I have never worked with Postgres
-
-Again, I've been using
-
 ### I have never worked with AWS Lambda
 
 I'll admit that this one isn't in there, so an AI might mark this as not done; But that's why I'm precisely advocating to not automatically deny someone this early.
