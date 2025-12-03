@@ -11,6 +11,8 @@ We shouldn't be putting hard requirements on job posts to wipe out job applicati
 
 I totally get having requirements, but you cannot infer from a resume whether you would fit these requirements. 3+ YOE don't mean shit when your experience was working _alongside_ a technology.
 
+## I'm salty
+
 I got rejected because I did not match the following requirements:
 
 ### I do not have 3+ years of Node.js experience
