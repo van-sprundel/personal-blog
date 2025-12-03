@@ -17,7 +17,7 @@ I got rejected because I did not match the following requirements:
 
 I've been using Node.JS professionally for 2 years, but I've been using it for uni and hobby projects since 2019.
 
-How do you know I'm good/bad at Node? You figure it out! In I have more than enough projects on my page that shows my usage of Node which goes further than just spinning up a basic server. I know my way around, and if my GitHub doesn't convince you I'm more than happy to show this during a 30 min call (but that's been cancelled, so we'll never know!).
+How do you know I'm good/bad at Node? You figure it out! I have more than enough projects on my page that shows my usage of Node which goes further than just spinning up a basic server. I know my way around, and if my GitHub doesn't convince you I'm more than happy to show this during a 30 min call (but that's been cancelled, so we'll never know!).
 
 ### I have never worked with postgres
 
