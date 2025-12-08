@@ -19,9 +19,17 @@ If you notice a typo or error, please report it by creating an issue on [GitHub]
 
 I'm a big supporter for open-source. I contribute (and donated until GitHub screwed that over) when possible.
 
-## A tight/transparent feedback loop with customers
+## New Tech
+
+I care a lot about knowing what's out there, and which options we can work with. This means trying out new projects/tools that peak my interest.
+
+Also good to note I'm biased towards the Rust and/or Go idiom. I like having more control, giving up some development speed. 
+
+## A transparent feedback loop
 
 I want to *know* someone else cares about the things I build. If I can't communicate with a customer, then I at least want a very transparent work environment. A lack of the latter makes it hard to figure out if I'm doing anything useful.
+
+This usually involves over-communicating, something which I'm fine with. 
 
 ##  A work/life balance
 
