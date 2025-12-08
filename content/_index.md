@@ -31,8 +31,14 @@ I want to *know* someone else cares about the things I build. If I can't communi
 
 This usually involves over-communicating, something which I'm fine with. 
 
+## Autonomy (in exchange for control)
+
+This kind of goes hand-in-hand with the previous point. I like working autonomously because I typically know what needs priority, given all the input from customers, colleagues, etc.
+
+If a PM doesn't tell me anything (aka, is not transparent), and decides for me what to work on, then I have no perception of what I'm working on. This is a big red flag for me in a company; being treated like a stupid monkey that types characters.
+
 ##  A work/life balance
 
-I've had sleepless night from personal projects because I *wanted* to make good progress. Whether that's healthy is debatable.
+I've had sleepless night from personal projects because I *wanted* to make good progress. Whether that's healthy is debatable, but I'm totally up for the heat!
 
 That said, I also respect my personal time. I expect others to do so as well :P
