@@ -40,3 +40,5 @@ If this post wasn't honest enough, I don't want a new job in this corporate worl
 I want to work on personal projects that I find important and help out other projects, that's it. If rent wasn't an issue I'd be working full-time on open-source and spend my spare time cycling.
 
 Maybe all of this is short-sighted and egotistical, maybe I'll realize this days after posting this blog. Maybe all of my blog posts are very negative and I come off as spoiled. All I know is that this is how I feel, and I'm pretty sure there's no alternative.
+
+I've added the things I value to my homepage to hopefully give people a sense of who I am, so we can see if we're aligned.
