@@ -11,7 +11,9 @@ I don't enjoy tech anymore. Programming as a job doesn't excite me anymore. Pers
 
 I'm going to spend a few months away from all social media and the internet as a whole. I believe that the only reason I use these is out of habit and as an escape plan to not have to deal with my personal issues.
 
-## Professional network
+I'm getting angry about what GitHub has become, every day there's a new bug and QA just seems to be not existent. Apparently they've stopped shipping big features anyway.
+
+## LinkedIn
 
 LinkedIn is slow, buggy, and [loud](/linkedin-is-loud). I don't see much benefit from using it other than the Daily Games :P
 
@@ -24,6 +26,8 @@ If people really need to talk, they can call me. I don't believe that having 4G 
 
 ## Job Interviews
 I'm in the middle of tech interviews, I told these people to call me if they have any updates and to not contact me on LinkedIn. So far so good.
+
+I'm pretty scared of getting a new job anyway, right now I'm not looking forward to a 40 hr work week. It doesn't seem healthy to be behind a screen >8 hrs a day, yet we normalized it. Maybe I'm being paranoid, but I don't feel healthy at all. I would like a job that's at least partly in the real world.
 
 ## Closing note
 
