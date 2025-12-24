@@ -11,7 +11,7 @@ I don't enjoy tech anymore. Programming as a job doesn't excite me anymore. Pers
 
 I'm going to spend a few months away from all social media and the internet as a whole. I believe that the only reason I use these is out of habit and as an escape plan to not have to deal with my personal issues.
 
-I'm getting angry about what GitHub has become, every day there's a new bug and QA just seems to be not existent. Apparently they've stopped shipping big features anyway.
+I'm getting angry about what GitHub has become, every day there's a new bug and QA just seems to be non-existent. Apparently they've stopped shipping big features anyway.
 
 ## LinkedIn
 
